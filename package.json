@@ -1,6 +1,6 @@
 {
   "name": "bfingerprint",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Middleware for Express to save Browser FingerPrint",
   "main": "bFingerPrint.js",
   "scripts": {
