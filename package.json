@@ -1,0 +1,25 @@
+{
+  "name": "bfingerprint",
+  "version": "1.0.0",
+  "description": "Middleware for Express to save Browser FingerPrint",
+  "main": "bFingerPrint.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/x0uter/bFingerPrint.git"
+  },
+  "keywords": [
+    "browser",
+    "fingerprint",
+    "middleware",
+    "express"
+  ],
+  "author": "x0uter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/x0uter/bFingerPrint/issues"
+  },
+  "homepage": "https://github.com/x0uter/bFingerPrint#readme"
+}
