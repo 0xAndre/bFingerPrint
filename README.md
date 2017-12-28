@@ -15,9 +15,11 @@ If a user with an anonymous browser has already been logged in to the web applic
 npm install bFingerPrint
 
 ```javascript
-const bFingerPrint = require('bFingerPrint')
+const bFingerPrint = require('bfingerprint')
 
 router.get('/generateFingerPrint', bFingerPrint, (req, res, next) => {
   res.redirect('/dashboard')
 })
 ```
+
+Fingerprint is added to the req.user.fingerprint
